@@ -1,24 +1,24 @@
-# cli-version
+# vuex-cli
 
-## Project setup
+## Configuration du projet
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+### Compile et recharge pour le développement
 ```
 yarn serve
 ```
 
-### Compiles and minifies for production
+### Compile et minimise pour la production
 ```
 yarn build
 ```
 
-### Lints and fixes files
+### Lint et corrige les fichiers
 ```
 yarn lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Enoncé du TP
+Voir __TP_Vuex.pdf__.
